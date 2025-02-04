@@ -1,2 +1,2 @@
 # Demo
-![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1wApEWpmyq4UZRuTn-NtWKqfyODeGEGxj/view?usp=drive_link))
+![alt text]([[alt text]([https://github.com/TuNguyen312/Chinese-Zodiac/blob/main/demo.png?raw=true)))
